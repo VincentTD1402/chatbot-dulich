@@ -1,0 +1,16 @@
+beautifulsoup4==4.12.2
+bs4==0.0.1
+chromadb
+openai
+google==3.0.0
+search-python==1.0
+sentence-transformers
+langchain==0.0.316
+langcodes==3.3.0
+langsmith==0.0.44
+pydantic==2.4.2
+pydantic-settings==2.0.3
+pydantic_core==2.10.1
+streamlit
+trafilatura
+transformers
